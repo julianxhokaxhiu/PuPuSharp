@@ -1,3 +1,9 @@
+# DEPRECATED!
+
+This repository exists only for historical purposes but if you're looking for a better Field editor, please consider this project instead: https://github.com/Sebanisu/Field-Map-Editor
+
+---
+
 # PuPuSharp
 FF8 Field Importer/Exporter - C# version of the original PuPu Project
 
